@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Themanthanvishen
-- 👀 I’m interested in Front-end Web development!
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT AND REACT
-- 💞️ I’m looking to gain experience in the front end field.
+- 👀 I’m interested in Full-Stack Web development!
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,ASP.NET AND REACT
+- 💞️ I’m looking to gain experience in this field.
 - 📫 How to reach me! Simply email me on rajputmanthan98@gmail.com
 
 <!---
