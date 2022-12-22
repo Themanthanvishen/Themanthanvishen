@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Themanthanvishen
 - 👀 I’m interested in Full-Stack Web development!
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,ASP.NET AND REACT
+- 🌱 My basic skills renders onto HTML,CSS,JAVASCRIPT,ASP.NET, ASP.NET Core and Angular
 - 💞️ I’m looking to gain experience in this field.
-- 📫 How to reach me! Simply email me on rajputmanthan98@gmail.com
+- 📫 How to reach me! Simply email me on manthanvishen651998@gmail.com
 
 <!---
 Themanthanvishen/Themanthanvishen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
